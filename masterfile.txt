@@ -1,2 +1,6 @@
 master file
+<<<<<<< Updated upstream
 asdasdsdasd
+=======
+asdasd
+>>>>>>> Stashed changes
